@@ -1,0 +1,24 @@
+[
+    {
+      "id": 373,
+      "imagen": "https://www.stylus.com.ar/_recursos/productos/grandes/20220801034745_501.jpg",
+      "nombre": "Mouse",
+      "precio": 29.99,
+      "stock": 50
+    },
+    {
+      "id": 375,
+      "imagen": "https://images.fravega.com/f300/79d8ae305c8e4b1584554256d5b2c0ed.jpg.webp",
+      "nombre": "Impresora",
+      "precio": 49.99,
+      "stock": 30
+    },
+    {
+      "id": 376,
+      "imagen": "https://www.lg.com/es/images/monitores/md07532390/gallery/Dm-01.jpg",
+      "nombre": "Monitor",
+      "precio": 79.99,
+      "stock": 20
+    }
+  ]
+  
